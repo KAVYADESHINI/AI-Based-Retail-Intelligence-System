@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-opencv-python
+opencv-python-headless
 supervision
 torch
 torchvision
@@ -10,4 +10,5 @@ pandas
 numpy
 matplotlib
 scipy
+
 
